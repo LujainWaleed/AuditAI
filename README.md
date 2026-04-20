@@ -1,6 +1,6 @@
 ﻿# AuditAI — AI Auditing Layer for Education
 
-AuditAI is a Streamlit app that applies the LLM-as-a-Judge technique to detect cultural and algorithmic bias in LLM-generated educational responses.. A **Tutor agent** answers a student's question, then an **Auditor agent** scans the response for bias, scores it across four metrics, and suggests a balanced rewrite plus a Socratic follow-up question.
+AuditAI is a Streamlit app that applies the LLM-as-a-Judge technique to detect cultural and algorithmic bias in LLM-generated educational responses. A **Tutor agent** answers a student's question, then an **Auditor agent** scans the response for bias, scores it across four metrics, and suggests a balanced rewrite plus a Socratic follow-up question.
 
 ---
 
