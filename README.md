@@ -7,7 +7,7 @@ AuditAI is a Streamlit app that applies the LLM-as-a-Judge technique to detect c
 ## Project Structure
 
 ```
-ethiguard/
+AuditAI/
 ├── app.py           # Entry point — wires all modules together
 ├── config.py        # Model IDs, system prompts, preset queries
 ├── clients.py       # Cached Groq / OpenAI-compatible client
